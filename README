@@ -1,0 +1,6 @@
+This is just a proof of concept of a X keylogger. 
+Use:
+simply compile the source with make, and simply execute.
+Usage:
+keys [file]
+If a file is precised the keylogger will write all the keys to it, else it will print to stdout
